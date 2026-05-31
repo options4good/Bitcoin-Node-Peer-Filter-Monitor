@@ -5,9 +5,9 @@ Bitcoin and other crypto node monitor to filter/monitor connected peers. A perfe
 <h2>What are the current features?</h2>
 
 <h3>Header section:</h3>
-<b>Displays the title/type of crypto node user is monitoring. (Title can be edited)<br>
-<b>Current date and time stamp, application's version number.<br>
-<b>Summary of certain data is displayed.<br><br>
+Displays the title/type of crypto node user is monitoring. (Title can be edited)<br>
+Current date and time stamp, application's version number.<br>
+Summary of certain data is displayed.<br><br>
 
 <h3>Columns:</h3>
 <b># =</b> each row is numbered.<br>
@@ -24,3 +24,4 @@ Bitcoin and other crypto node monitor to filter/monitor connected peers. A perfe
 <b>Status =</b> if the peer's node is 100% synced it considered as healthy, if not it will show how much the node is behind.<br><br>
 
 <h3>Footer section:</h3>
+Displayes the set value of refresh rate, the time when it refreshed...<br><br>
