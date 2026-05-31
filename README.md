@@ -37,8 +37,8 @@ CONFIG = {<br>
     "refresh_interval": 60,<br>
     "max_inbound_display": 25,<br>
     "version": "V3.3.4"<br>
-}<br>
-Version names of peer's node can be added to the scrub list found in the code to shorten their title, for example the word "Unlimited" seen on the image above can be added to be eliminated from displaying.<br>
+}<br><br>
+Version names of peer's node can be added to the scrub list found in the code to shorten their title, for example the word "Unlimited" seen on the image above can be added to be eliminated from displaying.<br><br>
 scrub_list = ["Indelible", "Bridge", "Bitcoin Cash Node:", "Bitcoin Cash Node", "Bitcoin:", "Bitcoin", "Satoshi:", "Linux", "x86_64", "EB32", ";", "(", ")"]<br>
 
 <h4>Donations are highly appreciated and can be made via crypto:</h4>
