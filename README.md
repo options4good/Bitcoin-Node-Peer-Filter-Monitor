@@ -28,8 +28,18 @@ Displays the refresh rate interval and the precise time of the last update.<br>
 
 <h3>Usage/Customizations:</h3>
 In order to properly display data, adjust the file paths in the code's configuration section. <br>
-The title in the header and the refresh value can be easily customized.<br>
-Version names of peer's node can be added to the exclusion list to shorten their title, for example the word "Unlimited" seen on the image above can be added to be eliminated from displaying.<br>
+The title in the header and the refresh value can be easily customized.<br><br>
+# --- USER CONFIGURATION ---
+CONFIG = {
+    "node_name": "BCH Node",                
+    "cli_path": "bitcoin-cli",  
+    "datadir": "/home/bch2/.bitcoin",        
+    "refresh_interval": 60,
+    "max_inbound_display": 25,
+    "version": "V3.3.4"
+}<br>
+Version names of peer's node can be added to the scrub list to shorten their title, for example the word "Unlimited" seen on the image above can be added to be eliminated from displaying.<br>
+scrub_list = ["Indelible", "Bridge", "Bitcoin Cash Node:", "Bitcoin Cash Node", "Bitcoin:", "Bitcoin", "Satoshi:", "Linux", "x86_64", "EB32", ";", "(", ")"]<br>
 
 <h4>Donations are highly appreciated and can be made via crypto:</h4>
 <b>DGB</b> wallet address:&nbsp;&nbsp;DEkZrJo1BHdiqnQq1XQSWGymEcDWGAWwZs<br>
