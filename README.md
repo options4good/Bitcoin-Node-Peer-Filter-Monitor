@@ -25,3 +25,16 @@ Summary of certain data is displayed.<br><br>
 
 <h3>Footer section:</h3>
 Displayes the set value of refresh rate, the time when it refreshed...<br><br>
+
+<h3>Usage/Customizations:</h3>
+In order to properly display data, adjust the file paths in the code's configuration section. <br>
+The title in the header and the refresh value are both can aslo be changed<br>
+Version names of peer's node can be added to the exlusion list to shorten their title, for example the word "Unlimited" seen on the image above can be added to be eliminated from displaying.<br><br>
+
+<h4>Donations are highly appreciated and can be made via crypto:</h4>
+<b>DGB</b> wallet address:&nbsp;&nbsp;DEkZrJo1BHdiqnQq1XQSWGymEcDWGAWwZs<br>
+<b>DOGE</b> wallet address:&nbsp;&nbsp;DKZ9sv4VoTiQQdwi7VY25573UfpQqZJfYf<br>
+<b>LTC</b> wallet address:&nbsp;&nbsp;MJw3XHpR65Ec8rKEBthK5Dnvcy1CixYGTa<br>
+<b>BCH</b> wallet address:&nbsp;&nbsp;bitcoincash:qq66dg3vhczrqf4zy4kxje3c45vz47khsufsludxcc<br><br>
+Thank you.
+<br><br>
