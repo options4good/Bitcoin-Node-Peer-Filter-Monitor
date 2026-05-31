@@ -7,7 +7,7 @@ Bitcoin and other crypto node monitor to filter/monitor connected peers. A perfe
 <h3>Header section:</h3>
 Displays the title/type of crypto node user is monitoring. (Title can be edited)<br>
 Current date and time stamp, application's version number.<br>
-Summary of certain data is displayed.<br><br>
+Summary of certain data is displayed.<br>
 
 <h3>Columns:</h3>
 <b># =</b> each row is numbered.<br>
@@ -21,15 +21,15 @@ Summary of certain data is displayed.<br><br>
 <b>Data =</b> how much data has been received/sent.<br>
 <b>Sync Height =</b> what block height the peer's node is currently synced to.<br>
 <b>Addnode =</b> is the peer included in config file as addnode=.<br>
-<b>Status =</b> if the peer's node is 100% synced it considered as healthy, if not it will show how much the node is behind.<br><br>
+<b>Status =</b> if the peer's node is 100% synced it considered as healthy, if not it will show how much the node is behind.<br>
 
 <h3>Footer section:</h3>
-Displayes the set value of refresh rate, the time when it refreshed...<br><br>
+Displays the refresh rate interval and the precise time of the last update.<br>
 
 <h3>Usage/Customizations:</h3>
 In order to properly display data, adjust the file paths in the code's configuration section. <br>
-The title in the header and the refresh value are both can aslo be changed<br>
-Version names of peer's node can be added to the exlusion list to shorten their title, for example the word "Unlimited" seen on the image above can be added to be eliminated from displaying.<br><br>
+The title in the header and the refresh value can be easily customized.<br>
+Version names of peer's node can be added to the exclusion list to shorten their title, for example the word "Unlimited" seen on the image above can be added to be eliminated from displaying.<br>
 
 <h4>Donations are highly appreciated and can be made via crypto:</h4>
 <b>DGB</b> wallet address:&nbsp;&nbsp;DEkZrJo1BHdiqnQq1XQSWGymEcDWGAWwZs<br>
